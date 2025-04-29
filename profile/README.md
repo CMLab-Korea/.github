@@ -1,20 +1,45 @@
-# Creative Vision and Multimedia Lab (CMLab)
-
-Welcome to the official GitHub organization of CMLab at Chung-Ang University, South Korea.
-
-- 🔬 Our lab primarily focuses on a variety of AI-based Computer Vision and Multimedia research areas, such as:
-```
-   ✨ Low-Level Vision
-       Video Super-Resolution / Deblurring / Video Frame Interpolation / Denoising / Dehazing / Enhancement / Restoration, etc. 
-   👁️⃤ 3D Vision
-       Gaussian Splatting / Neural Radiance Fields (NeRFs) / Novel View Synthesis / Neural Rendering, etc.
-   🤖 Generative AI
-      Multi-Modal / Editing / Personalization / Diffusion Models, etc.
---> But, not limited to!
-```
+# Creative Vision and Multimedia Lab (CMLab)  
+### Chung-Ang University, South Korea  
+**Supervised by Prof. Jihyong Oh**
 
 ---
 
-**Director**: Prof. Jihyong Oh (GSAIM@CAU)  
-**Contact**: jihyongoh@cau.ac.kr  
-**Lab Website**: [cmlab.cau.ac.kr](https://cmlab.cau.ac.kr)  
+Welcome to the official GitHub organization of **CMLab** at Chung-Ang University 🐉, South Korea 🇰🇷.  
+We conduct cutting-edge research in **AI-based Computer Vision and Multimedia** research areas, with a focus on both academic novelty and real-world impact.
+
+---
+
+## 🔬 Research Topics
+
+- ✨ **Low-Level Vision**
+  - Video Super-Resolution / Deblurring / Video Frame Interpolation / Denoising / Dehazing / Enhancement / Restoration, etc. 
+
+- 👁️⃤ **3D Vision**
+  - Gaussian Splatting / Neural Radiance Fields (NeRFs) / Novel View Synthesis / Neural Rendering, etc.
+
+- 🤖 **Generative AI**
+  - Multi-Modal / Editing / Personalization / Diffusion Models / Interactive Media AI, etc.
+
+
+---
+
+
+## 👨‍🏫 Director
+
+- **Prof. Jihyong Oh**  
+  Dept. of Imaging Science at the GSAIM  
+  Chung-Ang University, South Korea  
+  📧 jihyongoh@cau.ac.kr  
+
+---
+
+
+## 📢 Contact & Links
+
+- 🔗 GitHub: [CMLab-Korea](https://github.com/CMLab-Korea)
+- 🌐 Lab Website: [cmlab.cau.ac.kr](https://cmlab.cau.ac.kr)
+- 📬 Email: jihyongoh@cau.ac.kr
+
+---
+
+> ⚠️ All source codes released here are for research purposes only. Please check individual licenses in each repository.
