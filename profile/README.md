@@ -27,7 +27,6 @@ We conduct cutting-edge research in **AI-based Computer Vision and Multimedia**,
 ## 👨‍🏫 Director
 
 - **Prof. Jihyong Oh**  
-  Dept. of Imaging Science at the GSAIM  
   Chung-Ang University, South Korea  
   📧 jihyongoh@cau.ac.kr  
 
