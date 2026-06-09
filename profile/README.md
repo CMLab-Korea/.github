@@ -12,13 +12,16 @@ We conduct cutting-edge research in **AI-based Computer Vision and Multimedia**,
 ## 🔬 Research Topics
 
 - ✨ **Low-Level Vision**
-  - Video Super-Resolution / Deblurring / Video Frame Interpolation / Denoising / Dehazing / Enhancement / Restoration, etc. 
+  -Agentic All-in-One Restoration / Refinement of AI Generated Content / Super-Resolution / Deblurring / Frame Interpolation / Demoiréing, etc. 
 
 - 👁️⃤ **3D Vision**
-  - Gaussian Splatting / Neural Radiance Fields (NeRFs) / Novel View Synthesis / Neural Rendering, etc.
+  - Physical World Model / Gaussian Splatting / Neural Radiance Fields (NeRFs) / Novel View Synthesis / Neural Rendering, etc.
 
 - 🤖 **Generative AI**
-  - Multi-Modal / Editing / Personalization / Diffusion Models / Interactive Media AI, etc.
+  - Multi-Modal / Editing / Personalization / Morphing / Style Transfer / Compositing / Reframing, etc.
+
+- 🏗️  **Real-World AI Systems & Industry Translation**
+  - Industry-driven Visual AI / Product-oriented Research / Multimedia Applications
 
 
 ---
