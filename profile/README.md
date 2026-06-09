@@ -5,7 +5,8 @@
 ---
 
 Welcome to the official GitHub organization of **CMLab** at Chung-Ang University 🐉, South Korea 🇰🇷.  
-We conduct cutting-edge research in **AI-based Computer Vision and Multimedia**, with a focus on both academic novelty and real-world impact.
+We conduct cutting-edge research in Agentic/Generative Visual AI, spanning visual restoration/enhancement, 2D ~ 4D visual computing, and real-world multimedia AI systems.
+Our goal is to develop AI technologies that can restore, generate, edit, and render visual data across images, videos, 3D scenes, and dynamic 4D worlds. 
 
 ---
 
