@@ -12,15 +12,18 @@ Our goal is to develop AI technologies that can restore, generate, edit, and ren
 
 ## 🔬 Research Topics
 
-- ✨ **Low-Level Vision**
-  - Agentic All-in-One Restoration / Refinement of AI Generated Content / Super-Resolution / Deblurring / Frame Interpolation / Demoiréing, etc. 
+- ✨ **Pixel-Level Intelligence**
+  - All-in-One Restoration / Super-Resolution / Deblurring / Demoiréing / AIGC refinement, etc.
   
 
-- 👁️⃤ **3D Vision**
-  - Physical World Model / Gaussian Splatting / Neural Radiance Fields (NeRFs) / Novel View Synthesis / Neural Rendering, etc.
+- 🎞️ **Video & Motion Intelligence**
+  - Motion Modeling / Video Restoration / Frame Interpolation / Temporally Consistent Generation, etc.
 
-- 🤖 **Generative AI**
-  - Multi-Modal / Editing / Personalization / Morphing / Style Transfer / Compositing / Reframing, etc.
+- 🌐 **3D/4D World Representation**
+  - Physical World Model / Dynamic 4D scenes / Gaussian Splatting / NeRF / Novel View Synthesis / Neural Rendering, etc.
+
+- 🤖 **Generative / Agentic Visual AI**
+  - Multimodal Editing / Compositing / Personalization / Controllable Generation / Agentic Visual Systems, etc.
 
 - 🏗️  **Real-World AI Systems & Industry Translation**
   - Industry-driven Visual AI / Product-oriented Research / Multimedia Applications
