@@ -1,52 +1,28 @@
-# Creative Vision and Multimedia Lab (CMLab)  
-### Chung-Ang University, South Korea  
-**Supervised by Prof. Jihyong Oh**
+# Creative Vision & Multimedia Lab (CMLab)
 
----
+**From Pixels to 4D Worlds.**
 
-Welcome to the official GitHub organization of **CMLab** at Chung-Ang University 🐉, South Korea 🇰🇷.  
-We conduct cutting-edge research in Agentic/Generative Visual AI, spanning visual restoration/enhancement, 2D ~ 4D visual computing, and real-world multimedia AI systems.
-Our goal is to develop AI technologies that can restore, generate, edit, and render visual data across images, videos, 3D scenes, and dynamic 4D worlds. 
+Chung-Ang University · Seoul, Republic of Korea
 
----
+We develop visual AI that restores images, models motion, reconstructs dynamic 3D scenes, and generates and edits visual content. This GitHub organization hosts our research implementations and project resources.
 
-## 🔬 Research Topics
+[Lab Website](https://cmlab-korea.github.io/) · [Publications](https://cmlab-korea.github.io/publications.html) · [Projects](https://cmlab-korea.github.io/projects.html) · [People](https://cmlab-korea.github.io/people.html) · [Join CMLab](https://cmlab-korea.github.io/join.html)
 
-- ✨ **Pixel-Level Intelligence**
-  - All-in-One Restoration / Super-Resolution / Deblurring / Demoiréing / AIGC refinement, etc.
-  
+## Research Directions
 
-- 🎞️ **Video & Motion Intelligence**
-  - Motion Modeling / Video Restoration / Frame Interpolation / Temporally Consistent Generation, etc.
+| Area | Topics |
+| --- | --- |
+| **Pixel-Level Intelligence** | Low-Level Vision, all-in-one restoration, super-resolution, deblurring, demoiréing, and AI-generated content refinement |
+| **Video & Motion Intelligence** | Motion modeling, video restoration, frame interpolation, and temporally consistent generation |
+| **3D/4D World Modeling** | Physical world models, dynamic 4D scenes, Gaussian splatting, NeRF, novel-view synthesis, and neural rendering |
+| **Generative & Agentic Visual AI** | Multimodal editing, compositing, personalization, controllable generation, and agentic visual systems |
 
-- 🌐 **3D/4D World Representation**
-  - Physical World Model / Dynamic 4D scenes / Gaussian Splatting / NeRF / Novel View Synthesis / Neural Rendering, etc.
+**Real-World AI Systems & Industry Translation** connects these four directions with industry-driven research, multimedia applications, Physical AI, Embodied AI, and robotics. Practical deployment needs also inform the problems we study.
 
-- 🤖 **Generative / Agentic Visual AI**
-  - Multimodal Editing / Compositing / Personalization / Controllable Generation / Agentic Visual Systems, etc.
+[Explore our research directions](https://cmlab-korea.github.io/#what-we-explore)
 
-- 🏗️  **Real-World AI Systems & Industry Translation**
-  - Industry-driven Visual AI / Product-oriented Research / Multimedia Applications
+## Contact
 
+CMLab is led by Prof. Jihyong Oh. For research inquiries or collaboration, contact [jihyongoh@cau.ac.kr](mailto:jihyongoh@cau.ac.kr). [Principal Investigator](https://cmlab-korea.github.io/people.html#principal-investigator) · [Research Network](https://cmlab-korea.github.io/people.html#research-network)
 
----
-
-
-## 👨‍🏫 Director
-
-- **Prof. Jihyong Oh**  
-  Chung-Ang University, South Korea  
-  📧 jihyongoh@cau.ac.kr  
-
----
-
-
-## 📢 Contact & Links
-
-- 🔗 GitHub: [CMLab-Korea](https://github.com/CMLab-Korea)
-- 🌐 Lab Website: [cmlab.cau.ac.kr](https://cmlab.cau.ac.kr)
-- 📬 Email: jihyongoh@cau.ac.kr
-
----
-
-> ⚠️ All source codes released here are for research purposes only. Please check individual licenses in each repository.
+Code is released for research purposes. See each repository’s license for its terms of use.
